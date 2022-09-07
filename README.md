@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=d83a7c&height=120&section=header"/>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Danny+Berrios;È+um+prazer+recebê-los+em+meu+perfil;Sou+de+Recife-PE,+tenho+27+anos;Estudante+no+cursos+fullstack+da+recode;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
 
