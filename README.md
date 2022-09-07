@@ -17,7 +17,7 @@
 
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,css,bootstrap,html,react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,react,java,nodejs,mysql,css,bootstrap,html" />
 </a>
 
 <br>
