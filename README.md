@@ -5,8 +5,6 @@
 - 😄 Pronomes: ele/dele
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=dennyberrios&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> 
-
 <div align="center">
   <a href="https://github.com/dennyberrios">
   <img whidt="45%" height="180em" src="https://github-readme-stats.vercel.app/api?username=dennyberrios&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
@@ -14,13 +12,13 @@
 </div>
 
 <!-- Tecnologis que domino -->
-
 <br>
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,react,java,nodejs,mysql,css,bootstrap,html" />
 </a>
-
 <br>
+<br>
+  <img src="https://github-profile-trophy.vercel.app/?username=dennyberrios&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> 
 <br>
 
 <img src="./profile-3d-contrib/profile-night-rainbow.svg" />
