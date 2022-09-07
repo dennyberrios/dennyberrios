@@ -5,7 +5,7 @@
 - 😄 Pronomes: ele/dele
 <br><br>
 
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=dennyberrios&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> -->
+<img src="https://github-profile-trophy.vercel.app/?username=dennyberrios&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/> 
 
 <div align="center">
   <a href="https://github.com/dennyberrios">
