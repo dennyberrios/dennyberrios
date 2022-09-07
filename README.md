@@ -1,8 +1,7 @@
-### 👋 Olá eu sou o Danny, É um prazer recebê-lo em meu perfil.. 
-<hr>
-- 🔭 Desenvolvo projetos web FullStack <br>
-- 🌱 Atualmente estou estudando: Bootstrap | JS | React JS | React Native | java | C# <br>
-- 😄 Pronomes: ele/dele
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+me+chamo+Danny+Berrios;È+um+prazer+recebê-los+em+meu+perfil;Sou+de+Recife-PE,+tenho+27+anos;Estudante+no+cursos+fullstack+da+recode;Sejam+todos+bem+vindos!+:%29)](https://git.io/typing-svg)
+
 <br><br>
 
 <div align="center">
@@ -33,3 +32,9 @@
   <a href="https://www.linkedin.com/in/danny-berrios-405b3321b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dennyberrios}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
