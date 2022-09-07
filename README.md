@@ -13,7 +13,7 @@
 <!-- Tecnologis que domino -->
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,react,java,nodejs,mysql,css,bootstrap,html" />
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,react,redux,java,nodejs,mysql,css,bootstrap,html" />
 </a>
 <br>
 <br>
