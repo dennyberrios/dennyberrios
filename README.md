@@ -13,7 +13,10 @@
 <!-- Tecnologis que domino -->
 <br>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,javascript,react,redux,java,nodejs,mysql,css,bootstrap,html" />
+  <h2>Skills<h2/>
+  <img src="https://skillicons.dev/icons?i=git,vscode,linux,javascript,mysql,css,bootstrap,html" />
+  <h2>Estudando<h2/>
+  <img src="https://skillicons.dev/icons?i=linux,javascript,react,redux,java,nodejs,mysql" />
 </a>
 <br>
 <br>
