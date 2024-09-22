@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7333c7&height=120&section=header"/>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8fd6d2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Denny+Berrios!;Bem-vindo+ao+meu+perfil+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+inovação;+Sempre+em+busca+de+novos+desafios;+Transformando+ideias+em+soluções.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8fd6d2&size=35&center=true&vCenter=true&width=1000&lines=Olá,+eu+sou+Danny+Berrios!;Bem-vindo+ao+meu+perfil+GitHub!;Desenvolvedor+Full+Stack;Apaixonado+por+tecnologia+e+inovação;+Sempre+em+busca+de+novos+desafios;+Transformando+ideias+em+soluções.)](https://git.io/typing-svg)
 
 <br><br>
 
