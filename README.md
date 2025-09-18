@@ -14,7 +14,7 @@
 <br>
 <a href="https://skillicons.dev">
   <h2>Skills<h2/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,sublime,linux,ubuntu,windows,npm,yarn,javascript,typescript,mysql,java,css,html,bootstrap,tailwind,styledcomponents,next,react,vite,nodejs,notion,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse,sublime,linux,ubuntu,windows,npm,yarn,javascript,typescript,mysql,java,css,html,bootstrap,tailwind,styledcomponents,next,react,vite,nodejs,docker,notion,figma" />
   <h2>Estudando<h2/>
   <img src="https://skillicons.dev/icons?i=java,nodejs,mysql,typescript" />
 </a>
@@ -41,3 +41,4 @@
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7333c7&height=120&section=footer"/>
+
